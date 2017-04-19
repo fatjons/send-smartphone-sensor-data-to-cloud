@@ -11,5 +11,5 @@ http://www.filipyoo.com/iot-send-android-smartphone-sensor-data-to-microsoft-azu
 
 ## Azure IoT hub dashboard
 <p align="center">
-  <img src="https://github.com/filipyoo/send-smartphone-sensor-data-to-cloud/blob/master/iothub.png" alt="iot send sensor smartphone to cloud azure iot hub"/>
+  <img src="https://github.com/filipyoo/send-smartphone-sensor-data-to-cloud/blob/master/iothub.png" alt="iot send sensor smartphone to cloud azure iot hub"  height=80% weight=80%/>
 </p>
