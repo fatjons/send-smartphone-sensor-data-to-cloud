@@ -63,9 +63,9 @@ class DeviceManager:
         return r.text, r.status_code
 
 if __name__ == '__main__':
-    connectionString = 'HostName=ehealthHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=va9J/AHOL4O1H6XGJnlnX6x2/wVxckTxTnohzLASwTU='
+    connectionString = <YOUR IOT HUB CONNECTION STRING>
     dm = DeviceManager(connectionString)
-    deviceId = 'rpi_cluster_002'
+    deviceId = 'rpi_cluster_001'
     # print (dm.iotHost, dm.keyName, dm.keyValue)
     # print (dm.createDeviceId(deviceId))
     # print (dm.retrieveDeviceId(deviceId))

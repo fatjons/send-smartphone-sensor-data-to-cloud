@@ -9,7 +9,7 @@ import traceback
 from datetime import datetime
 
 # Communication with Azure IoT Hub
-connectionString = 'HostName=ehealthHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=va9J/AHOL4O1H6XGJnlnX6x2/wVxckTxTnohzLASwTU='
+connectionString = <YOUR IOT HUB CONNECTION STRING>
 deviceToCloudMsgSender     = deviceToCloudMsgSender.DeviceToCloudMsgSender(connectionString)
 deviceId = 'rpi_cluster_001'
 
