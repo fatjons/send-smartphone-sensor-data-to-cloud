@@ -11,5 +11,10 @@ http://www.filipyoo.com/iot-send-android-smartphone-sensor-data-to-microsoft-azu
 
 ## Azure IoT hub dashboard
 <p align="center">
-  <img src="https://github.com/filipyoo/send-smartphone-sensor-data-to-cloud/blob/master/iothub.png" alt="iot send sensor smartphone to cloud azure iot hub"  height=80% weight=80%/>
+  <img src="https://github.com/filipyoo/send-smartphone-sensor-data-to-cloud/blob/master/iothub.png" alt="iot send sensor smartphone to cloud azure iot hub"/>
+</p>
+
+## Real-time visualization
+<p align="center">
+  <img src="https://github.com/filipyoo/send-smartphone-sensor-data-to-cloud/blob/master/powerBI.png" alt="iot send sensor smartphone to cloud power BI"/>
 </p>
